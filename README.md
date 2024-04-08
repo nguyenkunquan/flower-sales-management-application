@@ -1,5 +1,5 @@
 # Welcome to my repo - Flower sales management application
-A Windows Forms application for member management, product (flower bouquet) management, and order management. The application has a default account whose email is `"admin@FUFlowerStore.com"` and password is “admin@@” that stored in the appsettings.json.
+A Windows Forms application for member management, product (flower bouquet) management, and order management. The application has a default account whose email is "`admin@FUFlowerStore.com`" and password is “admin@@” that stored in the appsettings.json.
 
 ### ERD Diagram:
 ![image](https://github.com/nguyenkunquan/flower-sales-management-application/assets/152289671/126ef048-ba9a-4b7d-b4b2-7f79a1021df5)
