@@ -22,6 +22,10 @@ Visual Studio, Windows Forms with .NET Core, C#, and ADO.NET/Entity Framework, t
 ![image](https://github.com/nguyenkunquan/flower-sales-management-application/assets/152289671/4684bc2e-1b56-475f-b160-0bf89ebb250d)
 
 ### Preview Results:
-
+![image](https://github.com/nguyenkunquan/flower-sales-management-application/assets/152289671/e5e4624b-1c33-452d-8ae4-e1c37fd58cc4)
+![image](https://github.com/nguyenkunquan/flower-sales-management-application/assets/152289671/b492743f-6151-4682-ab7e-f354701a8f70)
+![image](https://github.com/nguyenkunquan/flower-sales-management-application/assets/152289671/9ce144b5-ee2b-472e-a460-1422c17d41eb)
+![Screenshot (159)](https://github.com/nguyenkunquan/flower-sales-management-application/assets/152289671/eca514d8-9b5e-4869-b7d8-3b34900363b0)
+![image](https://github.com/nguyenkunquan/flower-sales-management-application/assets/152289671/7030c86a-d9da-4341-a665-ca6e1dc07314)
 
 ### © 2024 Nguyễn Đỗ Minh Quân | [My Facebook](https://www.facebook.com/wuaanm)
